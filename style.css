@@ -22,6 +22,7 @@ nav{
     position: relative;
     top: -10px;
     margin-right: 16px;
+    cursor:pointer;
 }
 
 .menu-items:hover{
